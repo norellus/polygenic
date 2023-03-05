@@ -9,5 +9,9 @@ Universal common ancestry (UCA) is a theory that stipulates that all life is gen
 What is more interesting, are the similarities between higher taxa such as humans or animals, to more primitive forms of life such as bacteria or fungi. Here, similarities are on the molecular level; they contain the same macromolecular machines such as DNA polymerase, ribosomal units (16S). 
 
 
+![This is an image](../images/last-universal-common-ancestor.png)
+
+
+
 # References 
 [1] https://www.nature.com/articles/nature09014
